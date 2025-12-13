@@ -1,0 +1,404 @@
+[
+  {
+    "id": "prod001",
+    "name": "Celestial Moonstone Ring",
+    "description": "Vintage moonstone ring hand-wrapped with copper, infused with Prosperous Intent to increase abundance.",
+    "category": "Jewelry",
+    "price_cents": 1500,
+    "keywords": ["moonstone", "ring", "copper", "prosperity", "abundance", "vintage"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/moonstone-ring.jpg"
+  },
+  {
+    "id": "prod002",
+    "name": "Celestial Moonstone Earrings",
+    "description": "Majestic moonstone earrings hand-wrapped with copper, infused with Prosperous Intent to increase abundance.",
+    "category": "Jewelry",
+    "price_cents": 1777,
+    "keywords": ["moonstone", "earrings", "copper", "prosperity", "abundance", "majestic"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/moonstone-earrings.jpg"
+  },
+  {
+    "id": "prod003",
+    "name": "Celestial Moonstone Pendant Necklace",
+    "description": "Luxurious moonstone pendant necklace hand-wrapped with copper, infused with Prosperous Intent to increase abundance.",
+    "category": "Jewelry",
+    "price_cents": 3545,
+    "keywords": ["moonstone", "necklace", "pendant", "copper", "prosperity", "abundance", "luxurious"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/moonstone-pendant.jpg"
+  },
+  {
+    "id": "prod004",
+    "name": "Celestial Moonstone Bracelet",
+    "description": "Mesmerizing purple amethyst bracelet handmade with brass, infused with protection to enhance, fortify, and cleanse the psyche.",
+    "category": "Jewelry",
+    "price_cents": 1444,
+    "keywords": ["amethyst", "bracelet", "brass", "protection", "cleanse", "psyche", "handmade"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/moonstone-bracelet.jpg"
+  },
+  {
+    "id": "prod005",
+    "name": "Celestial Moonstone Set",
+    "description": "Moonstone ring, bracelet, necklace, and earrings hand-wrapped with copper, infused with Prosperous Intent to increase abundance.",
+    "category": "Jewelry",
+    "price_cents": 7577,
+    "keywords": ["moonstone", "set", "ring", "bracelet", "necklace", "earrings", "copper", "prosperity", "abundance"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/moonstone-set.png"
+  },
+  {
+    "id": "prod006",
+    "name": "Purple Amethyst Set",
+    "description": "Elegant purple amethyst necklace, ring, bracelet, and earrings handmade with brass, infused with protection to enhance, fortify, and cleanse the psyche.",
+    "category": "Jewelry",
+    "price_cents": 7779,
+    "keywords": ["amethyst", "set", "necklace", "ring", "bracelet", "earrings", "brass", "protection", "elegant"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/Purple-Amethyst-Set.jpg"
+  },
+  {
+    "id": "prod007",
+    "name": "Purple Amethyst Earrings",
+    "description": "Luxurious purple amethyst earrings handmade with brass, infused with protection to enhance, fortify, and cleanse the psyche.",
+    "category": "Jewelry",
+    "price_cents": 2220,
+    "keywords": ["amethyst", "earrings", "brass", "protection", "luxurious"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/Purple-Amethyst-earrings.jpg"
+  },
+  {
+    "id": "prod008",
+    "name": "Purple Amethyst Bracelet",
+    "description": "Mesmerizing purple amethyst bracelet handmade with brass, infused with protection to enhance, fortify, and cleanse the psyche.",
+    "category": "Jewelry",
+    "price_cents": 2777,
+    "keywords": ["amethyst", "bracelet", "brass", "protection", "mesmerizing", "handmade"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/Purple-Amethyst-Bracelets.jpg"
+  },
+  {
+    "id": "prod009",
+    "name": "Purple Amethyst Ring",
+    "description": "Flashy purple amethyst ring handmade with brass, infused with protection to enhance, fortify, and cleanse the psyche.",
+    "category": "Jewelry",
+    "price_cents": 1444,
+    "keywords": ["amethyst", "ring", "brass", "protection", "flashy", "handmade"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/Purple-Amethyst-ring.jpg"
+  },
+  {
+    "id": "prod010",
+    "name": "Purple Amethyst Pendant Necklace",
+    "description": "Fancy purple amethyst pendant necklace handmade with brass, blessed with prosperity and abundance.",
+    "category": "Jewelry",
+    "price_cents": 3770,
+    "keywords": ["amethyst", "necklace", "pendant", "brass", "prosperity", "abundance", "fancy"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/Purple-Amethyst-pendeant.jpg"
+  },
+  {
+    "id": "prod011",
+    "name": "Elegant Emerald Set",
+    "description": "Elegant green emerald necklace, ring, bracelet, and earrings handmade with brass, blessed with prosperity and abundance.",
+    "category": "Jewelry",
+    "price_cents": 8780,
+    "keywords": ["emerald", "set", "necklace", "ring", "bracelet", "earrings", "brass", "prosperity", "abundance"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/emerald-set.jpg"
+  },
+  {
+    "id": "prod012",
+    "name": "Emerald Earrings",
+    "description": "Luxurious green emerald earrings handmade with brass, blessed with prosperity and abundance.",
+    "category": "Jewelry",
+    "price_cents": 3323,
+    "keywords": ["emerald", "earrings", "brass", "prosperity", "abundance", "luxurious"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/emerald-earrings.jpg"
+  },
+  {
+    "id": "prod013",
+    "name": "Emerald Bracelet",
+    "description": "Mesmerizing green emerald bracelet handmade with brass, blessed with prosperity and abundance.",
+    "category": "Jewelry",
+    "price_cents": 2333,
+    "keywords": ["emerald", "bracelet", "brass", "prosperity", "abundance", "mesmerizing"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/emerald-bracelet.jpg"
+  },
+  {
+    "id": "prod014",
+    "name": "Emerald Ring",
+    "description": "Flashy emerald green ring handmade with brass, blessed with prosperity and abundance.",
+    "category": "Jewelry",
+    "price_cents": 1772,
+    "keywords": ["emerald", "ring", "brass", "prosperity", "abundance", "flashy"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/emerald-ring.jpg"
+  },
+  {
+    "id": "prod015",
+    "name": "Emerald Pendant Necklace",
+    "description": "Fancy green emerald pendant necklace handmade with brass, blessed with prosperity and abundance.",
+    "category": "Jewelry",
+    "price_cents": 4777,
+    "keywords": ["emerald", "necklace", "pendant", "brass", "prosperity", "abundance", "fancy"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/emerald-pendeant.jpg"
+  },
+
+  {
+    "id": "prod016",
+    "name": "Peach Paradise",
+    "description": "Wealth, prosperity, and sensual cleansing bar with peachy apricot scent. Infused with Goddess Blend, Jezebel, Sugar Daddy, Reality Creation, Just Desserts, and Vibration of Love; crafted with mango butter, shea butter, coconut, olive, avocado oils, and honey.",
+    "category": "Soap",
+    "price_cents": 744,
+    "keywords": ["wealth", "prosperity", "sensual", "peach", "apricot", "goddess blend", "jezebel", "honey", "mango butter"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/peach-paradise-soap.JPG"
+  },
+  {
+    "id": "prod017",
+    "name": "A Gift from God",
+    "description": "Divine favor, abundance, and protection bar with cranberry wine scent. Infused with Seal of Solomon, Archangel Michael, Promised Land, Supernova Ki, Generational Wealth, and Luxuries of Lakshmi; made with goat milk, shea, coconut, almond, and grapeseed oils.",
+    "category": "Soap",
+    "price_cents": 844,
+    "keywords": ["divine", "protection", "abundance", "cranberry", "archangel michael", "seal of solomon", "goat milk", "frankincense", "myrrh"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/a-gift-from-god-soap.jpg"
+  },
+  {
+    "id": "prod018",
+    "name": "Bonita Applebum",
+    "description": "Love, seduction, and sweet success bar with sweet apple cranberry spice scent. Infused with Jezebel, Sex Goddess, Sugar Daddy, Come to Me, Fast Money, and Tantric Awakening; made with shea, mango, coconut oils and honey base.",
+    "category": "Soap",
+    "price_cents": 777,
+    "keywords": ["love", "seduction", "apple", "cranberry", "jezebel", "sex goddess", "fast money", "honey", "mango butter"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/bonita-applebum-soap.JPG"
+  },
+  {
+    "id": "prod019",
+    "name": "Fortune Foam",
+    "description": "Luxury, sweetness, and joy-attracting bar with vanilla cupcake scent. Infused with Vibration of Joy, Just Desserts, Goddess Blend, I Am Profitable, and Gamblers Blend; made with goat milk, coconut, shea, and mango butter.",
+    "category": "Soap",
+    "price_cents": 767,
+    "keywords": ["joy", "luxury", "vanilla", "vibration of joy", "gamblers blend", "goat milk", "honeysuckle", "calendula"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/fortune-foam-soap.PNG"
+  },
+  {
+    "id": "prod020",
+    "name": "Harmonic Shift",
+    "description": "Balance, renewal, and energy alignment bar with honey, sugar, and iced tea scent. Infused with Triumphant Return, Reality Creation Blend, Crown Cleaning, Sun Blissed, and Aura Protection; made with aloe vera base, olive, coconut, shea, and honey.",
+    "category": "Soap",
+    "price_cents": 989,
+    "keywords": ["balance", "renewal", "alignment", "honey", "green tea", "reality creation", "aura protection", "aloe vera"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/harmonic-shift-soap.JPG"
+  },
+  {
+    "id": "prod021",
+    "name": "Banknote Billionaire",
+    "description": "Wealth, power, and success magnet bar with money-soaked apple scent. Infused with Money Conjuring Blend, Better Business, Millionaires, Gamblers Blend, Get Money, and Road to Riches; made with mango butter base and gold flakes.",
+    "category": "Soap",
+    "price_cents": 888,
+    "keywords": ["wealth", "success", "money", "apple", "money conjuring", "better business", "gold flakes", "basil", "cinnamon"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/banknote-billionaire-soap.JPG"
+  },
+  {
+    "id": "prod022",
+    "name": "Lavish Lover",
+    "description": "Love, passion, and attraction bar with rose and cherry blossom scent. Infused with Vibration of Love, Jezebel, Sex Goddess, Soul Snatch, Insatiable, and Tantric Awakening; made with olive oil base, coconut, shea, and goat milk.",
+    "category": "Soap",
+    "price_cents": 797,
+    "keywords": ["love", "passion", "attraction", "rose", "cherry blossom", "vibration of love", "jasmine", "saffron", "goat milk"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/lavish-lover-soap.JPG"
+  },
+  {
+    "id": "prod023",
+    "name": "Please Me",
+    "description": "Desire, sensuality, and confidence bar with strawberry and vanilla crème scent. Infused with Come to Me, Dream of Me, Tantric Manifest, Devour Me, Vibration of Self, and Sex Goddess; made with aloe vera base, coconut, shea, and castor oil.",
+    "category": "Soap",
+    "price_cents": 677,
+    "keywords": ["desire", "sensuality", "confidence", "strawberry", "vanilla", "come to me", "tantric", "lotus flower"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/please-me-soap.JPG"
+  },
+  {
+    "id": "prod024",
+    "name": "Big Latto Latte",
+    "description": "Power, focus, and grounding bar with coffee and hazelnut scent. Infused with More Than A Conqueror, Supernova Ki, Triumphant Return, Mars Mentum, and Joules; made with goat milk base, coconut, shea, and cocoa butter.",
+    "category": "Soap",
+    "price_cents": 1111,
+    "keywords": ["power", "focus", "grounding", "coffee", "hazelnut", "supernova ki", "ginseng", "cinnamon", "cocoa butter"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/big-latto-latte-soap.jpg"
+  },
+  {
+    "id": "prod025",
+    "name": "Sacred Keys",
+    "description": "Protection, wisdom, and spiritual elevation bar with blackberry, grape, and elderberry scent. Infused with Sacred Keys, Seal of Solomon, Archangel Michael, Primordial Channeling, and Impenetrable Defense; made with olive oil base, coconut, shea, and grapeseed oil.",
+    "category": "Soap",
+    "price_cents": 818,
+    "keywords": ["protection", "wisdom", "spiritual", "blackberry", "elderberry", "archangel michael", "sage", "mugwort", "grapeseed"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/sacred-keys-soap.JPG"
+  },
+  {
+    "id": "prod026",
+    "name": "Monumental",
+    "description": "Strength, endurance, and clarity bar with mint, eucalyptus, and charcoal scent. Infused with Blockbuster Blend, Triumphant Return, Reality Creation, Aura Protection, and Masters of Manifestation; made with charcoal base and activated charcoal.",
+    "category": "Soap",
+    "price_cents": 1010,
+    "keywords": ["strength", "clarity", "endurance", "mint", "eucalyptus", "charcoal", "blockbuster", "manifestation", "rosemary"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/monumental-soap.jpg"
+  },
+  {
+    "id": "prod027",
+    "name": "Immovable Stone",
+    "description": "Protection, stability, and grounding bar with pine, evergreen, and eucalyptus scent. Infused with Impenetrable Defense, More Than A Conqueror, Archangel Michael, Protection Blend, and Sacred Keys; made with olive oil base, coconut, avocado, and palm oil.",
+    "category": "Soap",
+    "price_cents": 1010,
+    "keywords": ["protection", "stability", "grounding", "pine", "evergreen", "archangel michael", "juniper", "myrrh", "frankincense"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/immovable-stone-soap.jpg"
+  },
+  {
+    "id": "prod028",
+    "name": "Starlight",
+    "description": "Purification, healing, and celestial energy bar with baby powder scent. Infused with DNA Activate & Repair, Crown Cleaning, Vibration of Peace, Aura Protection, and Sun Blissed; made with goat milk base, shea, coconut, and honey.",
+    "category": "Soap",
+    "price_cents": 1111,
+    "keywords": ["purification", "healing", "celestial", "baby powder", "dna repair", "crown cleaning", "white sage", "lotus", "calendula"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/starlight-soap.jpg"
+  },
+  {
+    "id": "prod029",
+    "name": "Magician’s Touch",
+    "description": "Manifestation, power, and influence bar with sandalwood, vanilla, and whiskey scent. Infused with Reality Creation, Manifestation Blend, Vibration of Success, Wealth of the Wicked, and Lucifer; made with olive oil base, coconut, shea, and honey.",
+    "category": "Soap",
+    "price_cents": 544,
+    "keywords": ["manifestation", "power", "influence", "sandalwood", "vanilla", "reality creation", "whiskey", "bay leaf"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/magicians-touch-soap.JPG"
+  },
+  {
+    "id": "prod030",
+    "name": "Reality Bender",
+    "description": "Manifestation, luck, and expansion bar with kiwi, citrus, and honeydew scent. Infused with Reality Creation, Tantra Manifest, Masters of Manifestation, New Money, and Back in Blood; made with mango butter base, coconut, shea, and olive oil.",
+    "category": "Soap",
+    "price_cents": 998,
+    "keywords": ["manifestation", "luck", "expansion", "kiwi", "citrus", "honeydew", "new money", "vervain", "mugwort", "passionfruit"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/reality-bender-soap.JPG"
+  },
+  {
+    "id": "prod031",
+    "name": "Pleased Discipline",
+    "description": "Focus, success, and mastery bar with coffee and vanilla crème scent. Infused with Triumphant Return, More Than A Conqueror, Mars Mentum, Vibration of Success, and Seal of Solomon; made with goat milk base, coconut, shea, and cocoa butter.",
+    "category": "Soap",
+    "price_cents": 898,
+    "keywords": ["focus", "success", "mastery", "coffee", "vanilla", "mars mentum", "ginseng", "bay leaf", "cinnamon"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/pleased-discipline-soap.jpg"
+  },
+  {
+    "id": "prod032",
+    "name": "Barricade",
+    "description": "Protection, repelling, and strength bar with lemongrass and citronella scent. Infused with Impenetrable Defense, Protection Blend, Archangel Michael, Blockbuster Blend, and Supernova Ki; made with olive oil base, coconut, castor, and mango butter.",
+    "category": "Soap",
+    "price_cents": 444,
+    "keywords": ["protection", "repel", "strength", "lemongrass", "citronella", "archangel michael", "hyssop", "eucalyptus"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/barricade-soap.jpg"
+  },
+  {
+    "id": "prod033",
+    "name": "Immortal Technique",
+    "description": "Healing, vitality, and longevity bar with ginger, turmeric, and mint scent. Infused with Vitality Blend, Immortal Blacksmith, DNA Activate & Repair, Supernova Ki, and Triumphant Return; made with olive oil base, coconut, shea, and goat milk.",
+    "category": "Soap",
+    "price_cents": 616,
+    "keywords": ["healing", "vitality", "longevity", "ginger", "turmeric", "peppermint", "ginseng", "holy basil", "dna repair"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/immortal-technique-soap.jpg"
+  },
+  {
+    "id": "prod034",
+    "name": "Le Solei",
+    "description": "Confidence, power, and radiance bar with citrus orange, mango, honey, and cayenne scent. Infused with Sun Blissed, Jade Emperor, Luxuries of Lakshmi, Ganesha, and Fast Money; made with mango butter base, coconut, avocado, and shea.",
+    "category": "Soap",
+    "price_cents": 888,
+    "keywords": ["confidence", "power", "radiance", "citrus", "mango", "sun blissed", "cayenne", "saffron", "luxuries of lakshmi"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/le-solei-soap.JPG"
+  },
+  {
+    "id": "prod035",
+    "name": "Eternal Privilege",
+    "description": "Luxury, abundance, and high-vibration bar with tropical fruit medley scent. Infused with Wealth of the Wicked, Rich B*tch, New Money, Prosperity Blend, and Millionaires; made with olive oil base, coconut, shea, and honey.",
+    "category": "Soap",
+    "price_cents": 745,
+    "keywords": ["luxury", "abundance", "wealth", "tropical", "prosperity", "rich", "pineapple", "coconut", "kiwi", "passionfruit", "banana", "saffron"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/eternal-privlege-soap.jpg"
+  },
+  {
+    "id": "prod036",
+    "name": "Benevolenciaga",
+    "description": "Wealth, indulgence, and elevation bar with rich chocolate scent. Infused with Manifestation Blend, Better Business, Get Money, Gamblers Blend, and Money Conjuring Blend; made with cocoa butter base, coconut, shea, and honey.",
+    "category": "Soap",
+    "price_cents": 1212,
+    "keywords": ["wealth", "indulgence", "elevation", "chocolate", "manifestation", "better business", "cocoa", "vanilla", "nutmeg"],
+    "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
+    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/benevolenciaga-soap.jpg"
+  },
+
+  {
+    "id": "prod037",
+    "name": "Fortune-Ki Magickal 24K Gold Infused Fragrance Oil",
+    "description": "Prosperity, wealth, and luxury conjuring oil infused with 24K gold flakes and Fortune-Ki blends including Supernova Ki, Sacred Keys, Promised Land, Triumphant Return, Millionaires, Wealth of the Wicked, Fast Money, and R$ch B$tch.",
+    "category": "Fragrance Oil",
+    "price_cents": 3499,
+    "keywords": ["24k gold", "prosperity", "wealth", "luxury", "supernova ki", "sacred keys", "promised land", "triumpant return", "fragrance oil"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/oil-images-4-ecom/blob/main/fortune-ki-24k-gold-oil.jpg"
+  },
+  {
+    "id": "prod038",
+    "name": "Fortune‑Ki 24K Gold Oil (Rose Gold) Fragrance Oil",
+    "description": "Rose gold fragrance oil for prosperity, wealth, and luxury, infused with 24K gold flakes and blends including Supernova Ki, Promised Land, Sacred Keys, More Than A Conqueror, Millionaires, Fast Money, R$ch B$tch, and Luxuries of Lakshmi.",
+    "category": "Fragrance Oil",
+    "price_cents": 4744,
+    "keywords": ["rose gold", "24k gold", "prosperity", "wealth", "luxury", "supernova ki", "promised land", "sacred keys", "fragrance oil"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/oil-images-4-ecom/blob/main/24-krose-gold-oil.jpg"
+  },
+  {
+    "id": "prod039",
+    "name": "Fortune-Ki “Banknote Billionaire” Body Spray",
+    "description": "Organic body spray fragrance with money-soaked apple essence, infused with Promised Land, Supernova Ki, Sacred Keys, Money Conjuring Blend, Come to Me, Gamblers Blend, Infinite Wealth, Road to Riches, and Wealth of the Wicked.",
+    "category": "Body Mist",
+    "price_cents": 5885,
+    "keywords": ["body spray", "money", "apple", "prosperity", "wealth", "promised land", "gamblers blend", "road to riches", "luxury"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/oil-images-4-ecom/blob/main/banknote-B-oil.jpg"
+  },
+  {
+    "id": "prod040",
+    "name": "Fortune-Ki Special: Lotus Lane Fragrance Oil",
+    "description": "Magickally infused fragrance oil for protection, prosperity, wealth, abundance, love, and success, designed to align senses for manifestation with a refined lotus-inspired profile.",
+    "category": "Fragrance Oil",
+    "price_cents": 3616,
+    "keywords": ["lotus", "protection", "prosperity", "wealth", "abundance", "love", "success", "fragrance oil"],
+    "type_variations": [],
+    "image_url": "https://github.com/Kikachux3/oil-images-4-ecom/blob/main/Lotus-Lane-fragrance-oil.jpg"
+  }
+]
