@@ -318,7 +318,7 @@
     "price_cents": 444,
     "keywords": ["protection", "repel", "strength", "lemongrass", "citronella", "archangel michael", "hyssop", "eucalyptus"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/blob/main/barricade-soap.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/barricade-soap.jpg"
   },
   {
     "id": "prod033",
@@ -338,7 +338,7 @@
     "price_cents": 888,
     "keywords": ["confidence", "power", "radiance", "citrus", "mango", "sun blissed", "cayenne", "saffron", "luxuries of lakshmi"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/blob/main/le-solei-soap.JPG"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/le-solei-soap.JPG"
   },
   {
     "id": "prod035",
