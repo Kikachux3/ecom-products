@@ -17,7 +17,7 @@
     "price_cents": 1777,
     "keywords": ["moonstone", "earrings", "copper", "prosperity", "abundance", "majestic"],
     "type_variations": [],
-    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/moonstone-earring.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/moonstone-earrings.jpg"
   },
   {
     "id": "prod003",
@@ -27,7 +27,7 @@
     "price_cents": 3545,
     "keywords": ["moonstone", "necklace", "pendant", "copper", "prosperity", "abundance", "luxurious"],
     "type_variations": [],
-    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/moonstone-pendeant.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/moonstone-pendant.jpg"
   },
   {
     "id": "prod004",
@@ -47,7 +47,7 @@
     "price_cents": 7577,
     "keywords": ["moonstone", "set", "ring", "bracelet", "necklace", "earrings", "copper", "prosperity", "abundance"],
     "type_variations": [],
-    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/moonstone-set.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/moonstone-set.png"
   },
   {
     "id": "prod006",
