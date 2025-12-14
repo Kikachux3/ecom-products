@@ -7,7 +7,7 @@
     "price_cents": 1500,
     "keywords": ["moonstone", "ring", "copper", "prosperity", "abundance", "vintage"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/moonstone-ring.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/moonstone-ring.jpg"
   },
   {
     "id": "prod002",
@@ -17,7 +17,7 @@
     "price_cents": 1777,
     "keywords": ["moonstone", "earrings", "copper", "prosperity", "abundance", "majestic"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/moonstone-earrings.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/moonstone-earring.jpg"
   },
   {
     "id": "prod003",
@@ -27,7 +27,7 @@
     "price_cents": 3545,
     "keywords": ["moonstone", "necklace", "pendant", "copper", "prosperity", "abundance", "luxurious"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/moonstone-pendant.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/moonstone-pendeant.jpg"
   },
   {
     "id": "prod004",
@@ -37,7 +37,7 @@
     "price_cents": 1444,
     "keywords": ["amethyst", "bracelet", "brass", "protection", "cleanse", "psyche", "handmade"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/moonstone-bracelet.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/moonstone-bracelet.jpg"
   },
   {
     "id": "prod005",
@@ -47,7 +47,7 @@
     "price_cents": 7577,
     "keywords": ["moonstone", "set", "ring", "bracelet", "necklace", "earrings", "copper", "prosperity", "abundance"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/moonstone-set.png"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/moonstone-set.jpg"
   },
   {
     "id": "prod006",
@@ -57,7 +57,7 @@
     "price_cents": 7779,
     "keywords": ["amethyst", "set", "necklace", "ring", "bracelet", "earrings", "brass", "protection", "elegant"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/Purple-Amethyst-Set.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/Purple-Amethyst-Set.jpg"
   },
   {
     "id": "prod007",
@@ -67,7 +67,7 @@
     "price_cents": 2220,
     "keywords": ["amethyst", "earrings", "brass", "protection", "luxurious"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/Purple-Amethyst-earrings.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/Purple-Amethyst-earrings.jpg"
   },
   {
     "id": "prod008",
@@ -77,7 +77,7 @@
     "price_cents": 2777,
     "keywords": ["amethyst", "bracelet", "brass", "protection", "mesmerizing", "handmade"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/Purple-Amethyst-Bracelets.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/Purple-Amethyst-Bracelets.jpg"
   },
   {
     "id": "prod009",
@@ -87,7 +87,7 @@
     "price_cents": 1444,
     "keywords": ["amethyst", "ring", "brass", "protection", "flashy", "handmade"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/Purple-Amethyst-ring.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/Purple-Amethyst-ring.jpg"
   },
   {
     "id": "prod010",
@@ -97,7 +97,7 @@
     "price_cents": 3770,
     "keywords": ["amethyst", "necklace", "pendant", "brass", "prosperity", "abundance", "fancy"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/Purple-Amethyst-pendeant.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/Purple-Amethyst-pendeant.jpg"
   },
   {
     "id": "prod011",
@@ -107,7 +107,7 @@
     "price_cents": 8780,
     "keywords": ["emerald", "set", "necklace", "ring", "bracelet", "earrings", "brass", "prosperity", "abundance"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/emerald-set.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/emerald-set.jpg"
   },
   {
     "id": "prod012",
@@ -117,7 +117,7 @@
     "price_cents": 3323,
     "keywords": ["emerald", "earrings", "brass", "prosperity", "abundance", "luxurious"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/emerald-earrings.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/emerald-earrings.jpg"
   },
   {
     "id": "prod013",
@@ -127,7 +127,7 @@
     "price_cents": 2333,
     "keywords": ["emerald", "bracelet", "brass", "prosperity", "abundance", "mesmerizing"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/emerald-bracelet.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/emerald-bracelet.jpg"
   },
   {
     "id": "prod014",
@@ -137,7 +137,7 @@
     "price_cents": 1772,
     "keywords": ["emerald", "ring", "brass", "prosperity", "abundance", "flashy"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/emerald-ring.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/emerald-ring.jpg"
   },
   {
     "id": "prod015",
@@ -147,7 +147,7 @@
     "price_cents": 4777,
     "keywords": ["emerald", "necklace", "pendant", "brass", "prosperity", "abundance", "fancy"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/jewelry-images4-ecom/blob/main/emerald-pendeant.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/jewelry-images4-ecom/refs/heads/main/emerald-pendeant.jpg"
   },
 
   {
@@ -158,7 +158,7 @@
     "price_cents": 744,
     "keywords": ["wealth", "prosperity", "sensual", "peach", "apricot", "goddess blend", "jezebel", "honey", "mango butter"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/peach-paradise-soap.JPG"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/peach-paradise-soap.JPG"
   },
   {
     "id": "prod017",
@@ -168,7 +168,7 @@
     "price_cents": 844,
     "keywords": ["divine", "protection", "abundance", "cranberry", "archangel michael", "seal of solomon", "goat milk", "frankincense", "myrrh"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/a-gift-from-god-soap.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/a-gift-from-god-soap.jpg"
   },
   {
     "id": "prod018",
@@ -178,7 +178,7 @@
     "price_cents": 777,
     "keywords": ["love", "seduction", "apple", "cranberry", "jezebel", "sex goddess", "fast money", "honey", "mango butter"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/bonita-applebum-soap.JPG"
+    "image_url": "hhttps://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/bonita-applebum-soap.JPG"
   },
   {
     "id": "prod019",
@@ -188,7 +188,7 @@
     "price_cents": 767,
     "keywords": ["joy", "luxury", "vanilla", "vibration of joy", "gamblers blend", "goat milk", "honeysuckle", "calendula"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/fortune-foam-soap.PNG"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/fortune-foam-soap.PNG"
   },
   {
     "id": "prod020",
@@ -198,7 +198,7 @@
     "price_cents": 989,
     "keywords": ["balance", "renewal", "alignment", "honey", "green tea", "reality creation", "aura protection", "aloe vera"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/harmonic-shift-soap.JPG"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/harmonic-shift-soap.JPG"
   },
   {
     "id": "prod021",
@@ -208,7 +208,7 @@
     "price_cents": 888,
     "keywords": ["wealth", "success", "money", "apple", "money conjuring", "better business", "gold flakes", "basil", "cinnamon"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/banknote-billionaire-soap.JPG"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/banknote-billionaire-soap.JPG"
   },
   {
     "id": "prod022",
@@ -218,7 +218,7 @@
     "price_cents": 797,
     "keywords": ["love", "passion", "attraction", "rose", "cherry blossom", "vibration of love", "jasmine", "saffron", "goat milk"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/lavish-lover-soap.JPG"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/lavish-lover-soap.JPG"
   },
   {
     "id": "prod023",
@@ -228,7 +228,7 @@
     "price_cents": 677,
     "keywords": ["desire", "sensuality", "confidence", "strawberry", "vanilla", "come to me", "tantric", "lotus flower"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/please-me-soap.JPG"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/please-me-soap.JPG"
   },
   {
     "id": "prod024",
@@ -238,7 +238,7 @@
     "price_cents": 1111,
     "keywords": ["power", "focus", "grounding", "coffee", "hazelnut", "supernova ki", "ginseng", "cinnamon", "cocoa butter"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/big-latto-latte-soap.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/big-latto-latte-soap.jpg"
   },
   {
     "id": "prod025",
@@ -248,7 +248,7 @@
     "price_cents": 818,
     "keywords": ["protection", "wisdom", "spiritual", "blackberry", "elderberry", "archangel michael", "sage", "mugwort", "grapeseed"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/sacred-keys-soap.JPG"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/sacred-keys-soap.JPG"
   },
   {
     "id": "prod026",
@@ -258,7 +258,7 @@
     "price_cents": 1010,
     "keywords": ["strength", "clarity", "endurance", "mint", "eucalyptus", "charcoal", "blockbuster", "manifestation", "rosemary"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/monumental-soap.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/monumental-soap.jpg"
   },
   {
     "id": "prod027",
@@ -268,7 +268,7 @@
     "price_cents": 1010,
     "keywords": ["protection", "stability", "grounding", "pine", "evergreen", "archangel michael", "juniper", "myrrh", "frankincense"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/immovable-stone-soap.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/immovable-stone-soap.jpg"
   },
   {
     "id": "prod028",
@@ -278,7 +278,7 @@
     "price_cents": 1111,
     "keywords": ["purification", "healing", "celestial", "baby powder", "dna repair", "crown cleaning", "white sage", "lotus", "calendula"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/starlight-soap.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/starlight-soap.jpg"
   },
   {
     "id": "prod029",
@@ -288,7 +288,7 @@
     "price_cents": 544,
     "keywords": ["manifestation", "power", "influence", "sandalwood", "vanilla", "reality creation", "whiskey", "bay leaf"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/magicians-touch-soap.JPG"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/magicians-touch-soap.JPG"
   },
   {
     "id": "prod030",
@@ -298,7 +298,7 @@
     "price_cents": 998,
     "keywords": ["manifestation", "luck", "expansion", "kiwi", "citrus", "honeydew", "new money", "vervain", "mugwort", "passionfruit"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/reality-bender-soap.JPG"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/reality-bender-soap.JPG"
   },
   {
     "id": "prod031",
@@ -308,7 +308,7 @@
     "price_cents": 898,
     "keywords": ["focus", "success", "mastery", "coffee", "vanilla", "mars mentum", "ginseng", "bay leaf", "cinnamon"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/pleased-discipline-soap.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/pleased-discipline-soap.jpg"
   },
   {
     "id": "prod032",
@@ -328,7 +328,7 @@
     "price_cents": 616,
     "keywords": ["healing", "vitality", "longevity", "ginger", "turmeric", "peppermint", "ginseng", "holy basil", "dna repair"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/immortal-technique-soap.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/barricade-soap.jpg"
   },
   {
     "id": "prod034",
@@ -348,7 +348,7 @@
     "price_cents": 745,
     "keywords": ["luxury", "abundance", "wealth", "tropical", "prosperity", "rich", "pineapple", "coconut", "kiwi", "passionfruit", "banana", "saffron"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/eternal-privlege-soap.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/eternal-privlege-soap.jpg"
   },
   {
     "id": "prod036",
@@ -358,7 +358,7 @@
     "price_cents": 1212,
     "keywords": ["wealth", "indulgence", "elevation", "chocolate", "manifestation", "better business", "cocoa", "vanilla", "nutmeg"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://github.com/Kikachux3/soap-images-4-ecom/blob/main/benevolenciaga-soap.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/benevolenciaga-soap.jpg"
   },
 
   {
@@ -369,7 +369,7 @@
     "price_cents": 3499,
     "keywords": ["24k gold", "prosperity", "wealth", "luxury", "supernova ki", "sacred keys", "promised land", "triumpant return", "fragrance oil"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/oil-images-4-ecom/blob/main/fortune-ki-24k-gold-oil.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/oil-images-4-ecom/refs/heads/main/fortune-ki-24k-gold-oil.jpg"
   },
   {
     "id": "prod038",
@@ -379,7 +379,7 @@
     "price_cents": 4744,
     "keywords": ["rose gold", "24k gold", "prosperity", "wealth", "luxury", "supernova ki", "promised land", "sacred keys", "fragrance oil"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/oil-images-4-ecom/blob/main/24-krose-gold-oil.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/oil-images-4-ecom/refs/heads/main/24-krose-gold-oil.jpg"
   },
   {
     "id": "prod039",
@@ -389,7 +389,7 @@
     "price_cents": 5885,
     "keywords": ["body spray", "money", "apple", "prosperity", "wealth", "promised land", "gamblers blend", "road to riches", "luxury"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/oil-images-4-ecom/blob/main/banknote-B-oil.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/oil-images-4-ecom/refs/heads/main/banknote-B-oil.jpg"
   },
   {
     "id": "prod040",
@@ -399,6 +399,6 @@
     "price_cents": 3616,
     "keywords": ["lotus", "protection", "prosperity", "wealth", "abundance", "love", "success", "fragrance oil"],
     "type_variations": [],
-    "image_url": "https://github.com/Kikachux3/oil-images-4-ecom/blob/main/Lotus-Lane-fragrance-oil.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/oil-images-4-ecom/refs/heads/main/Lotus-Lane-fragrance-oil.jpg"
   }
 ]
