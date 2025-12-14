@@ -178,7 +178,7 @@
     "price_cents": 777,
     "keywords": ["love", "seduction", "apple", "cranberry", "jezebel", "sex goddess", "fast money", "honey", "mango butter"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "hhttps://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/bonita-applebum-soap.JPG"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/bonita-applebum-soap.JPG"
   },
   {
     "id": "prod019",
@@ -348,7 +348,7 @@
     "price_cents": 745,
     "keywords": ["luxury", "abundance", "wealth", "tropical", "prosperity", "rich", "pineapple", "coconut", "kiwi", "passionfruit", "banana", "saffron"],
     "type_variations": ["Soap", "Fragrance Oil", "Body Mist", "Body Butter", "Lip Balm", "Set"],
-    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/immortal-technique-soap.jpg"
+    "image_url": "https://raw.githubusercontent.com/Kikachux3/soap-images-4-ecom/refs/heads/main/eternal-privlege-soap.jpg"
   },
   {
     "id": "prod036",
